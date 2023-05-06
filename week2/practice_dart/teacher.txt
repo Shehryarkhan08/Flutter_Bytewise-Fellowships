@@ -1,0 +1,4 @@
+Khawar Altaf | 25000 | 03001234567 | H # 32, st 32, Islamabad | C100
+Shahid | 16000 | 03001234567 | Shahid tailor, Main bazar, Abbottabad | C101
+Huma Ashraf | 23500 | 03001234567 | Flat # 12, Muhmmad towers, Lahore | C102
+Khawaja Amjad | 24000 | 03001234567 | House NO 12, Near old sweet shop, Haripur | C103
