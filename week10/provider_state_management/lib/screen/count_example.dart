@@ -28,7 +28,7 @@ class _CountExampleState extends State<CountExample> {
         title: const Text('Provider Example'),
       ),
       body: Center(
-        child: Text('0'),
+        child: Text(count.toString()),
       ),
       floatingActionButton: FloatingActionButton(onPressed: () {}),
     );
